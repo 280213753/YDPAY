@@ -1,0 +1,289 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+
+   <!-- array of downloads.-->
+
+   <key>items</key>
+
+   <array>
+
+       <dict>
+
+           <!-- an array of assets to download -->
+
+           <key>assets</key>
+
+           <array>
+
+               <!-- software-package: the ipa to install.-->
+
+               <dict>
+
+                   <!-- required.the asset kind.-->
+
+                   <key>kind</key>
+
+                   <string>software-package</string>
+
+                   <!-- optional.md5 every n bytes.will restart a chunk if md5 fails.-->
+
+                   <key>md5-size</key>
+
+                   <integer>131072</integer>
+
+                   <!-- optional.array of md5 hashes for each "md5-size" sized chunk.-->
+
+                   <key>md5s</key>
+
+                   <array>
+
+                       <string>bdb98db06d2001104bbf1958b285744a</string>
+
+                       <string>04e0d1c34b85131b768b13ec106cbc9f</string>
+
+                       <string>81e137dcf4cbf6fc8e2a66e7a034d8e5</string>
+
+                       <string>daa01a07d2fc1347ad6d24df2e1ab817</string>
+
+                       <string>d30bcdf271a724998d1d2d8e2fdf696f</string>
+
+                       <string>c6007049b1987befa69676e319f3feac</string>
+
+                       <string>b24878c3dbbf563fac3187e8a6d36b5f</string>
+
+                       <string>a30b7894c31ede066695992251df249a</string>
+
+                       <string>072e8a8ab117837c825405609f124eda</string>
+
+                       <string>559972342703bd3d1e5d0bd785139b9a</string>
+
+                       <string>160b8e4a65834235c6bac21f0c88a8e0</string>
+
+                       <string>3d2189594ec542aeef2cba926e0a224f</string>
+
+                       <string>980dfddfc0f4e6a7de6f6c256f7c30f5</string>
+
+                       <string>3eba69571484beaed83a02b88d8696f8</string>
+
+                       <string>d1993cb926a7d240ab989a6c8ea18f46</string>
+
+                       <string>a2ebe105acfc8092ea42ceb3c6e21d83</string>
+
+                       <string>6b0cba3749d61575520ffb6c3f010461</string>
+
+                       <string>bec2dc74d653d4373e525fcda35d6fdc</string>
+
+                       <string>b635dc1e746441181c61582934b975ae</string>
+
+                       <string>ff9805d2b283f3af23fca8cf9cb2bf21</string>
+
+                       <string>63c651d254f006d39acad452bae3f4f5</string>
+
+                       <string>90bbbaf782cc1a137e2bcf177a5dacf9</string>
+
+                       <string>1edcfe4ba7b2661268517a7b7bcce8b9</string>
+
+                       <string>074fa993c7038a5cc2cde9a52455d22a</string>
+
+                       <string>c7d5a62896db97a8cfff4f778e666a81</string>
+
+                       <string>080a6a254c4a5055d93f73acba10c196</string>
+
+                       <string>955aa44d068c4adf0d6c974b6cf8ed9a</string>
+
+                       <string>e15a5a7d3e5a97e88b828cae6dccbd97</string>
+
+                       <string>17737453709836062233513a38032373</string>
+
+                       <string>2cb02261164da11b937b59f658d5276f</string>
+
+                       <string>66de32a1b44cd24daf2f3246178c1b90</string>
+
+                       <string>b87d2665d7fcf651a0a4d3a6bd1dbdd7</string>
+
+                       <string>be71f2f627191ecee662c013f3565349</string>
+
+                       <string>8ff8be09fa8463338d796de37b615c88</string>
+
+                       <string>ce4ac3f33bfe766501567c07bbab8763</string>
+
+                       <string>64a4e0bcd617c7451474d5c5c84da580</string>
+
+                       <string>0b20d77e081f2c67866d5a7254765bcc</string>
+
+                       <string>70763e32aea177229de58902ab3c246a</string>
+
+                       <string>0c165a5667ecce1bb18861c49d4f61ad</string>
+
+                       <string>d8167229e5c0919f9dc4fb88a20bb176</string>
+
+                       <string>f91cf6e1d77f6219077ffbc47ce2c9d7</string>
+
+                       <string>f810b7b79a313524131e6cae066df666</string>
+
+                       <string>c233bf6bd88ebee30ccc0256c5a94c8b</string>
+
+                       <string>8f486eccbe552f3e2e76a1710268c403</string>
+
+                       <string>37e68e764d17db028dd38eb7cb23794b</string>
+
+                       <string>0626f3193a1866a8b562018336a27bec</string>
+
+                       <string>bbb41ef40702b376af3a93f8ec65dd2c</string>
+
+                       <string>e47d69f213462a8f8d7bb65508c3e7ed</string>
+
+                       <string>a93e68c35920b5c5ffca50d04284346a</string>
+
+                       <string>a01d9143b2d0562a9b0f5e562df640fb</string>
+
+                       <string>5bfb205eed97d259f610cca66d87559e</string>
+
+                       <string>3c69a54297ee6b3ad2115f31767e397c</string>
+
+                       <string>4ab7bd555fad80b3035431871e77c09e</string>
+
+                       <string>7b153c5fd7ecfdfeb0edf3e687be52fe</string>
+
+                       <string>1ee2157cf10ce13bcbba87e8dca47c73</string>
+
+                       <string>be5bff2660527bb1692a34c3bf190edd</string>
+
+                       <string>a6bf271578e31266dbb1aad784c55a76</string>
+
+                       <string>27d844b4e4fdfd89d577fadf9f3180d4</string>
+
+                       <string>076e131ab2fa2834fbec08d1fef37a47</string>
+
+                       <string>da62300b591c384fe6d01e0a2e839eeb</string>
+
+                       <string>41e4ed30221918480f77bbd1c9b6892a</string>
+
+                       <string>2bcd7e38bd70349f246cb6773542835e</string>
+
+                       <string>2282dbdc47654599db5520c07bc9f937</string>
+
+                       <string>b57c9c7f75f89fa87361fff88d18655d</string>
+
+                       <string>977c6a6700d92164b4c3b085dc658a3c</string>
+
+                       <string>61c735bb1861b16159c702cc7b4524eb</string>
+
+                       <string>0a096d69a2a4b48230e10f7ee5ac966b</string>
+
+                       <string>d4e443d1b01ba47f35ecf9125d8b0652</string>
+
+                       <string>f5ed9085632148b74a3c40c0f866914d</string>
+
+                       <string>7f64525f795ff657607549f383b710cc</string>
+
+                       <string>61fd0911d4db4c8783cc804fb1efe3cf</string>
+
+                       <string>e07eb090e47b2615e1266d5d57ba6cc5</string>
+
+                       <string>c8a5f4009a641c5c4f1a3b82c22b1672</string>
+
+                       <string>d186ccd28d2c8d3f5677e5a0ab54f91f</string>
+
+                       <string>f2defacfd444ebde968706a5117fd939</string>
+
+                       <string>f28b18096d73a1098412ece27f7972c0</string>
+
+                   </array>
+
+                   <!-- required.the URL of the file to download.-->
+
+                   <key>url</key>
+
+                   <string>http://mpos.tltpay.com:8080/pay/apk/YDpay.ipa</string>
+
+               </dict>
+
+               <!-- display-image: the icon to display during download .-->
+
+               <dict>
+
+                   <key>kind</key>
+
+                   <string>display-image</string>
+
+                   <!-- optional.indicates if icon needs shine effect applied.-->
+
+                   <key>needs-shine</key>
+
+                   <true/>
+
+                   <key>url</key>
+
+                   <string>http://mpos.tltpay.com:8080/pay/apk/YDpay.png</string>
+
+               </dict>
+
+               <!-- full-size-image: the large 512x512 icon used by iTunes.-->
+
+               <dict>
+
+                   <key>kind</key>
+
+                   <string>full-size-image</string>
+
+                   <!-- optional.one md5 hash for the entire file.-->
+
+                   <key>md5</key>
+
+                   <string>37d5334bc8d106d3773606af58f6816f</string>
+
+                   <key>needs-shine</key>
+
+                   <true/>
+
+                   <key>url</key><string>http://mpos.tltpay.com:8080/pay/apk/YDpay.png</string>
+
+               </dict>
+
+           </array><key>metadata</key>
+
+           <dict>
+
+               <!-- required -->
+
+               <key>bundle-identifier</key>
+
+               <string>com.example.yd</string>
+
+               <!-- optional (software only) -->
+
+               <key>bundle-version</key>
+
+               <string>1.1.1</string>
+
+               <!-- required.the download kind.-->
+
+               <key>kind</key>
+
+               <string>software</string>
+
+               <!-- optional. displayed during download; typically company name -->
+
+               <key>subtitle</key>
+
+               <string></string>
+
+               <!-- required.the title to display during the download.-->
+
+               <key>title</key>
+
+               <string>银点支付</string>
+
+           </dict>
+
+       </dict>
+
+   </array>
+
+</dict>
+
+</plist>
